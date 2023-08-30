@@ -128,13 +128,37 @@ header> button:hover {
     color: #6730e3;
 }
 
+/* social links */
+.social-links {
+    padding: 20px;
+    margin-top: 80px;
+}
 
+.social-links ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
 
+.btn-social{
+    padding: 9px 25px;
+    border: none;
+    border-radius: 50px;
+}
 
+.bg-facebook{
+    background-color: #1877F2;
 
+}
 
+.bg-youtube{
+     background-color: #CD201F;
+}
 
+.bg-instagram{
+    background-color: hotpink;
 
+}
 
 
 
