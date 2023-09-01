@@ -10,15 +10,22 @@
     }
 
     25%{
-        color: orange;
+        color: darkmagenta;
 
     }
 
     50%{
-        color: blue;
+        color: violet;
     }
 
     75%{
-        color: aqua;
+        color: blue;
     }
+}
+
+.bg-instagram{
+    animation-name: colorchange;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+
 }
